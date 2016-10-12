@@ -18,3 +18,6 @@ Použití skriptu lze automatizovat a např. si pomocí Cronu nechat zaslat emai
                 -q      Tichy rezim. Vystup se generuje pouze pri vyskutu zmeny, nebo
                         pokud nastane chyba. Tato volba je vhodna napr. pro automatizovane
                         zasilani mailu pomoci CRONu.
+                        
+## Licence
+MIT
